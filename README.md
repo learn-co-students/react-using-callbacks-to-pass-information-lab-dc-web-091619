@@ -5,7 +5,7 @@
 - Practice using state, props, and events
 - Practice using callbacks to effect change up and down the component tree
 
-## Introduction
+## Introduction  
 
 In React, **props** are used to pass information _down_ the component tree, from
 parents to children. In order to propagate information in the opposite
